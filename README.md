@@ -18,15 +18,23 @@
 
 I'm **Vibhuti Sharma**, a **B.Tech Computer Science & Engineering (Artificial Intelligence) student** passionate about building practical AI systems and intelligent applications.
 
-I enjoy turning AI concepts into **real-world projects, experiments, and usable applications**.
+🔭 **Built [APEX AI — Personal AI Assistant](https://github.com/Vibhu-18/Apex-AI---Personal-assistant-)**, an AI-powered assistant combining RAG, voice AI, PDF chat, notes generation, and personalized memory
 
-- 🔭 Currently exploring **Agentic AI and intelligent automation**
-- 🤖 Passionate about **AI/ML, NLP, Generative AI, and RAG**
-- 🚀 Building practical **AI-powered web applications**
-- 🏆 **SIH'25 Team Lead**
-- ☁️ **AI/ML Team Member — AWS Student Builder Group**
-- 🎓 **Former Campus Ambassador — EDC IIT Delhi**
-- 💡 I believe the best way to learn AI is by **building, experimenting, and continuously improving**
+🌱 Currently exploring **Agentic AI, Generative AI, RAG systems, and intelligent automation**
+
+🚀 Built AI/ML projects including **SkillMatcher Pro.AI, Sentiment Analysis, and Machine Learning applications**
+
+💼 **IBM SkillsBuild AI Intern • Microsoft Elevate AI Intern • ServiceNow Virtual Intern**
+
+🏆 **SIH'25 Team Lead** and **AI/ML Team Member — AWS Student Builder Group**
+
+🎓 Former **Campus Ambassador — EDC IIT Delhi**
+
+💬 Ask me about **Python, AI/ML, NLP, Generative AI, RAG, or AI-powered web applications**
+
+⚡ I love turning **AI ideas into real-world projects, experiments, and usable applications**
+
+
 
 ---
 
