@@ -30,23 +30,31 @@ I enjoy turning AI concepts into **real-world projects, experiments, and usable 
 
 ---
 
-## 🏅 Highlights
+## 🚀 Things I've Built
 
 <div align="center">
 
-![APEX AI](https://img.shields.io/badge/APEX%20AI-Personal%20AI%20Assistant-4ade80?style=for-the-badge)
+<a href="https://www.linkedin.com/posts/vibhuti-sharma2006_artificialintelligence-generativeai-llm-ugcPost-7480649170719215616-28Ib/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFzlKXEBsB9dn_QbGquuRKUj628nB0YnDSQ">
+<img src="https://img.shields.io/badge/🤖%20APEX%20AI-Personal%20AI%20Assistant-4ade80?style=for-the-badge"/>
+</a>
 
-![SkillMatcher](https://img.shields.io/badge/SkillMatcher%20Pro.AI-AI%20Project-22c55e?style=for-the-badge)
+<a href="https://www.linkedin.com/posts/vibhuti-sharma2006_ai-skillmatcheraipro-machinelearning-activity-7386417297302847489-INnl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFzlKXEBsB9dn_QbGquuRKUj628nB0YnDSQ">
+<img src="https://img.shields.io/badge/🧠%20SkillMatcher%20Pro.AI-AI%20%2B%20ML-22c55e?style=for-the-badge"/>
+</a>
 
-![EcoEd](https://img.shields.io/badge/EcoEd-SIH%20Project-facc15?style=for-the-badge)
+<a href="https://github.com/Vibhu-18/sentiment-analysis-colab">
+<img src="https://img.shields.io/badge/📊%20Sentiment%20Analysis-NLP%20Project-38bdf8?style=for-the-badge"/>
+</a>
 
-![Sentiment Analysis](https://img.shields.io/badge/Sentiment%20Analysis-NLP%20Project-38bdf8?style=for-the-badge)
+<a href="https://github.com/Vibhu-18/House-Price-Predictor">
+<img src="https://img.shields.io/badge/🏠%20House%20Price%20Predictor-Machine%20Learning-a78bfa?style=for-the-badge"/>
+</a>
 
-![House Price Predictor](https://img.shields.io/badge/House%20Price%20Predictor-ML%20Project-a78bfa?style=for-the-badge)
+<a href="https://github.com/Vibhu-18/Enterprise-IT-Incident-Routing-Automation">
+<img src="https://img.shields.io/badge/⚙️%20IT%20Incident%20Automation-IBM%20watsonx-f59e0b?style=for-the-badge"/>
+</a>
 
-![SIH](https://img.shields.io/badge/SIH'25-Team%20Lead-orange?style=for-the-badge)
-
-</div>>
+</div>
 
 ---
 
