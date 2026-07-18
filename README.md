@@ -3,7 +3,7 @@
 <img src="./assets/ai-profile.svg" width="100%"/>
 
 <a href="https://www.linkedin.com/in/vibhuti-sharma2006">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI-powered+applications+%F0%9F%9A%80;NLP+%7C+Generative+AI+%7C+Agentic+AI;Exploring+Intelligent+AI+Systems;SIH'25+Team+Lead;Building+AI+systems%2C+one+idea+at+a+time+%F0%9F%92%9A&font=Fira%20Code&center=true&width=650&height=45&color=4ade80&vCenter=true&size=22&pause=1200"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI-powered+applications+%F0%9F%9A%80;Exploring+Generative+AI+%26+RAG;Building+AI+Systems+with+Python;Turning+Ideas+into+Real+Projects+%F0%9F%92%9A;Always+Learning.+Always+Building.&font=Fira+Code&center=true&width=650&height=45&color=4ade80&vCenter=true&size=22&pause=1200"/>
 </a>
 
 </div>
