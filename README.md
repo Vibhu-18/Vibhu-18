@@ -2,21 +2,13 @@
 
 <img src="./assets/ai-profile.svg" width="100%"/>
 
-<a href="https://www.linkedin.com/in/vibhuti-sharma2006">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI-powered+applications+%F0%9F%9A%80;Exploring+Generative+AI+%26+RAG;Building+AI+Systems+with+Python;Turning+Ideas+into+Real+Projects+%F0%9F%92%9A;Always+Learning.+Always+Building.&font=Fira+Code&center=true&width=650&height=45&color=4ade80&vCenter=true&size=22&pause=1200"/>
-</a>
-
 </div>
 
 <br>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vibhu-18&color=4ade80&style=flat-square&label=Profile+Views)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vibhuti-sharma2006)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vibhu-18)
+![Profile Views](https://komarev.com/ghpvc/?username=Vibhu-18&color=4ade80&style=flat-square&label=Profile+Views) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vibhuti-sharma2006) [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vibhu-18)
 
 </div>
 
@@ -42,17 +34,51 @@ I enjoy turning AI concepts into **real-world projects, experiments, and usable 
 
 <div align="center">
 
-![SIH](https://img.shields.io/badge/SIH'25-Team%20Lead-22c55e?style=for-the-badge)
+![SIH](https://img.shields.io/badge/SIH'25-Team%20Lead-orange?style=for-the-badge)
 
-![AI/ML](https://img.shields.io/badge/AWS%20Student%20Builder-AI%2FML-16a34a?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AWS-AI%2FML%20Team-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-![IBM](https://img.shields.io/badge/IBM%20SkillsBuild-AI%20Intern-166534?style=for-the-badge&logo=ibm&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM%20SkillsBuild-AI%20Intern-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
-![Microsoft](https://img.shields.io/badge/Microsoft-Elevate%20AI%20Intern-15803d?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-Elevate%20AI%20Intern-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-![ServiceNow](https://img.shields.io/badge/ServiceNow-Virtual%20Intern-14532d?style=for-the-badge)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-Virtual%20Intern-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white)
 
 </div>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pytorch" />
+</p>
+
+**Artificial Intelligence • Machine Learning • NLP • Generative AI • RAG • Agentic AI**
+
+### 💻 Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,fastapi,streamlit" />
+</p>
+
+### 🗄️ Data & Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,linux" />
+</p>
+
+**R Programming • Data Analysis • Data Engineering • Microsoft Fabric**
+
+### 🧰 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=postman,github,git,linux" />
+</p>
+
+**Ollama • ChromaDB • IBM watsonx • Streamlit**
 
 ---
 
@@ -60,14 +86,14 @@ I enjoy turning AI concepts into **real-world projects, experiments, and usable 
 
 ```mermaid
 graph LR
-    A[💡 AI Ideas] --> B[🧠 Learn AI/ML]
-    B --> C[⚙️ Build Projects]
-    C --> D[🚀 Deploy Applications]
-    D --> E[🔁 Experiment & Improve]
-    E --> A
+    A[💡 AI Idea] --> B[📘 Learn]
+    B --> C[🛠️ Build]
+    C --> D[🚀 Deploy]
+    D --> E[🔁 Improve]
+    E --> B
 
-    style A fill:#052e16,stroke:#4ade80,color:#ffffff
-    style B fill:#064e3b,stroke:#4ade80,color:#ffffff
-    style C fill:#065f46,stroke:#4ade80,color:#ffffff
-    style D fill:#047857,stroke:#4ade80,color:#ffffff
-    style E fill:#166534,stroke:#86efac,color:#ffffff
+    style A fill:#1e293b,stroke:#4ade80,color:#fff
+    style B fill:#1e293b,stroke:#4ade80,color:#fff
+    style C fill:#1e293b,stroke:#4ade80,color:#fff
+    style D fill:#1e293b,stroke:#4ade80,color:#fff
+    style E fill:#1e293b,stroke:#4ade80,color:#fff
