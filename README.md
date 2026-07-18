@@ -8,6 +8,10 @@
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/vibhuti-sharma2006">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI-powered+applications+%F0%9F%9A%80;Exploring+Generative+AI+%26+RAG;Building+AI+Systems+with+Python;Turning+Ideas+into+Real+Projects+%F0%9F%92%9A;Always+Learning.+Always+Building.&font=Fira+Code&center=true&width=650&height=45&color=4ade80&vCenter=true&size=22&pause=1200"/>
+</a>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Vibhu-18&color=4ade80&style=flat-square&label=Profile+Views) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vibhuti-sharma2006) [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vibhu-18)
 
 </div>
