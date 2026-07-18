@@ -34,17 +34,19 @@ I enjoy turning AI concepts into **real-world projects, experiments, and usable 
 
 <div align="center">
 
+![APEX AI](https://img.shields.io/badge/APEX%20AI-Personal%20AI%20Assistant-4ade80?style=for-the-badge)
+
+![SkillMatcher](https://img.shields.io/badge/SkillMatcher%20Pro.AI-AI%20Project-22c55e?style=for-the-badge)
+
+![EcoEd](https://img.shields.io/badge/EcoEd-SIH%20Project-facc15?style=for-the-badge)
+
+![Sentiment Analysis](https://img.shields.io/badge/Sentiment%20Analysis-NLP%20Project-38bdf8?style=for-the-badge)
+
+![House Price Predictor](https://img.shields.io/badge/House%20Price%20Predictor-ML%20Project-a78bfa?style=for-the-badge)
+
 ![SIH](https://img.shields.io/badge/SIH'25-Team%20Lead-orange?style=for-the-badge)
 
-![AI/ML](https://img.shields.io/badge/AWS-AI%2FML%20Team-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-![IBM](https://img.shields.io/badge/IBM%20SkillsBuild-AI%20Intern-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-
-![Microsoft](https://img.shields.io/badge/Microsoft-Elevate%20AI%20Intern-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
-![ServiceNow](https://img.shields.io/badge/ServiceNow-Virtual%20Intern-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white)
-
-</div>
+</div>>
 
 ---
 
